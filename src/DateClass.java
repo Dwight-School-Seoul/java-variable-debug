@@ -1,12 +1,14 @@
 public class DateClass {
 
-    public static int weekDay = "Friday";
+    public static String weekDay = "Friday";
 
-    public static double month = "January";
+    public static String month = "January";
 
-    public static String date = 13;
+    public static int date = 13;
 
-    public static boolean year = 2023;
+    public static int year = 2023;
+
+    public static String aDash = " - ";
 
     public static void getDate(){
 
